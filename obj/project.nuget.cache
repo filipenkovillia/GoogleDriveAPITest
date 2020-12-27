@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "81PZWcOUOoNExydoVlHXnux84aiY2d/HxV0mC0WdzHqb2/Y/9LcGd2+z0zzWNIjgjdAAYWFyGoN12cV/3Wp5Lw==",
+  "success": true,
+  "projectFilePath": "D:\\My Projects\\GoogleDriveAPITest\\GoogleDriveAPITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\filip\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\google.apis.drive.v3\\1.49.0.2166\\google.apis.drive.v3.1.49.0.2166.nupkg.sha512",
+    "C:\\Users\\filip\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
